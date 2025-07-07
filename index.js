@@ -163,13 +163,13 @@ console.log(`Ways to climb: ${climbStairs(n)}`);
 // Summary
 console.log('\n\n🎯 PROJECT SUMMARY');
 console.log('=' .repeat(80));
-console.log('✅ Total Problems: 16');
-console.log('✅ Easy Problems: 11 (Perfect for beginners)');
-console.log('✅ Medium Problems: 4 (Intermediate level)');
+console.log('✅ Total Problems: 29 (Comprehensive collection)');
+console.log('✅ Easy Problems: 14 (Perfect for beginners)');
+console.log('✅ Medium Problems: 14 (Intermediate level)');
 console.log('✅ Hard Problems: 1 (Advanced level)');
-console.log('✅ Categories: Arrays, Strings, Linked Lists, Trees, Stacks, DP, Sorting');
+console.log('✅ Categories: 13 different algorithmic areas');
 console.log('✅ All problems include multiple solution approaches');
-console.log('✅ Comprehensive test coverage with 350+ test cases');
+console.log('✅ Comprehensive test coverage with 924+ test cases');
 console.log('✅ Real interview questions from FAANG companies');
 
 console.log('\n🚀 Next Steps:');
