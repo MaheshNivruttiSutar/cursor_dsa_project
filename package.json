@@ -1,0 +1,31 @@
+{
+  "name": "dsa-practice-js",
+  "version": "1.0.0",
+  "description": "JavaScript project for practicing Data Structures and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "dsa",
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "practice"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!src/**/*.test.js"
+    ]
+  }
+}
